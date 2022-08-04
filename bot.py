@@ -39,7 +39,7 @@ async def hex_cmd(msg: Message):
         maybe_len = len(msg.text.split('#')[1])
         err_by_len = True if maybe_len < 6 else False
 
-        session = aiohttp.ClientSession()
+        session = await bot.get_session()
         request = await session.get(
             url_server.format(hex=code_str, w='1080', h='1080')
         )
