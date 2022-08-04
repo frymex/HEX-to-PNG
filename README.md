@@ -8,7 +8,7 @@
 
 #### Скриншоты
 
-![image-20220804204845602](C:\Users\Home\AppData\Roaming\Typora\typora-user-images\image-20220804204845602.png)
+![image-20220804204845602](https://files.catbox.moe/0nhyex.png)
 
-![image-20220804204901919](C:\Users\Home\AppData\Roaming\Typora\typora-user-images\image-20220804204901919.png)
+![image-20220804204901919](https://files.catbox.moe/avgztq.png)
 
